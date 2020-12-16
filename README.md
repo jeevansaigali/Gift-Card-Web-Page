@@ -1,2 +1,2 @@
 # Gift-Card-Web-Page
-Gift Card for
+This is a Gift card webpage developed using HTML, CSS, Bootstrap and Javascript.
